@@ -1,5 +1,5 @@
 --Mi primer programa en Lua
---Autor: Dioni0396
+--https://github.com/fsalazarsch/NDS/tree/main/luaDS
  
 Azul = Color.new(0, 0, 31)
 while true do
